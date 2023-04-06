@@ -1,0 +1,8 @@
+N_types_of_goods	M_shelves	Max_coordinate	Maximum capacity in each shelf	Minimum_distance	Real_running_time	Number_of_nodes	Paths
+20	10	10	100	30	1675658422		
+100	50	10	100	34	1675658442		
+200	100	10	100	44	1675658576		
+400	200	10	100	44	1675658663		
+1000	500	10	100	10	1675658918		
+2000	1000	10	100	CAN'T	CAN'T		
+4000	2000	10	100	CAN'T	CAN'T		
